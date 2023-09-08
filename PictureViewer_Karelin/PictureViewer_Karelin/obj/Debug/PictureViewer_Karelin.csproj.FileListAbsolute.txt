@@ -1,0 +1,10 @@
+C:\Users\29333882\source\repos\PictureViewer_Karelin\PictureViewer_Karelin\bin\Debug\PictureViewer_Karelin.exe.config
+C:\Users\29333882\source\repos\PictureViewer_Karelin\PictureViewer_Karelin\bin\Debug\PictureViewer_Karelin.exe
+C:\Users\29333882\source\repos\PictureViewer_Karelin\PictureViewer_Karelin\bin\Debug\PictureViewer_Karelin.pdb
+C:\Users\29333882\source\repos\PictureViewer_Karelin\PictureViewer_Karelin\obj\Debug\PictureViewer_Karelin.csprojAssemblyReference.cache
+C:\Users\29333882\source\repos\PictureViewer_Karelin\PictureViewer_Karelin\obj\Debug\PictureViewer_Karelin.Form1.resources
+C:\Users\29333882\source\repos\PictureViewer_Karelin\PictureViewer_Karelin\obj\Debug\PictureViewer_Karelin.Properties.Resources.resources
+C:\Users\29333882\source\repos\PictureViewer_Karelin\PictureViewer_Karelin\obj\Debug\PictureViewer_Karelin.csproj.GenerateResource.cache
+C:\Users\29333882\source\repos\PictureViewer_Karelin\PictureViewer_Karelin\obj\Debug\PictureViewer_Karelin.csproj.CoreCompileInputs.cache
+C:\Users\29333882\source\repos\PictureViewer_Karelin\PictureViewer_Karelin\obj\Debug\PictureViewer_Karelin.exe
+C:\Users\29333882\source\repos\PictureViewer_Karelin\PictureViewer_Karelin\obj\Debug\PictureViewer_Karelin.pdb
